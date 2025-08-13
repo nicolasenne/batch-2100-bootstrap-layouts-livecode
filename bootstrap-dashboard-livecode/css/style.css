@@ -1,0 +1,9 @@
+#sidebar {
+  height: calc(100vh - 60px);
+  position: sticky;
+  top: 60px;
+}
+
+#navbar {
+  height: 60px;
+}
